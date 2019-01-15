@@ -1,1 +1,1 @@
-# ElementsOfStats_FinalProject
+FinalProject
